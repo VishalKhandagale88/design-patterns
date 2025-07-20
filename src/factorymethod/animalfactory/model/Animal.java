@@ -1,2 +1,5 @@
-package factorymethod.animalfactory.model;public class Animal {
+package factorymethod.animalfactory.model;
+
+public interface Animal {
+    void speaks();
 }
