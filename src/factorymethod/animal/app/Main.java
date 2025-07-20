@@ -1,9 +1,9 @@
-package factorymethod.animalfactory.app;
+package factorymethod.animal.app;
 
-import factorymethod.animalfactory.factory.AnimalFactory;
-import factorymethod.animalfactory.factory.CatFactory;
-import factorymethod.animalfactory.factory.DogFactory;
-import factorymethod.animalfactory.model.Animal;
+import factorymethod.animal.factory.AnimalFactory;
+import factorymethod.animal.factory.CatFactory;
+import factorymethod.animal.factory.DogFactory;
+import factorymethod.animal.model.Animal;
 
 public class Main {
     public static void main(String[] args) {

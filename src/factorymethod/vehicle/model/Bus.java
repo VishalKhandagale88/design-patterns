@@ -1,4 +1,4 @@
-package factorymethod.vehiclefactory.model;
+package factorymethod.vehicle.model;
 
 public class Bus implements Vehicle{
     @Override

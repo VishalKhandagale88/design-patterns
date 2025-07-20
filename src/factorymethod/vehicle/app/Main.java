@@ -1,9 +1,9 @@
-package factorymethod.vehiclefactory.app;
+package factorymethod.vehicle.app;
 
-import factorymethod.vehiclefactory.factory.BusFactory;
-import factorymethod.vehiclefactory.factory.CarFactory;
-import factorymethod.vehiclefactory.factory.VehicleFactory;
-import factorymethod.vehiclefactory.model.Vehicle;
+import factorymethod.vehicle.factory.BusFactory;
+import factorymethod.vehicle.factory.CarFactory;
+import factorymethod.vehicle.factory.VehicleFactory;
+import factorymethod.vehicle.model.Vehicle;
 
 public class Main {
     public static void main(String[] args) {

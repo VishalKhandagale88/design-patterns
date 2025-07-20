@@ -1,4 +1,4 @@
-package factorymethod.animalfactory.model;
+package factorymethod.animal.model;
 
 public class Cat implements Animal{
 

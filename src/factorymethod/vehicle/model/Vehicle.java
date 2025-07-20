@@ -1,4 +1,4 @@
-package factorymethod.vehiclefactory.model;
+package factorymethod.vehicle.model;
 
 public interface Vehicle {
     void vehicleName();
